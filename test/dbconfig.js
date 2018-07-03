@@ -38,8 +38,8 @@ var config = {};
 
 /***************** OPTION 1 - Edit credentials at this section ******************/
 config.user          = 'hr';
-config.password      = 'hr';
-config.connectString = 'localhost/orcl';
+config.password      = 'welcome';
+config.connectString = 'localhost/XE';
 
 config.test = {};
 
